@@ -1,5 +1,5 @@
 const mainPage = document.getElementsByClassName('main-page')[0]
-mainPage.addEventListener('click', () => location.href = 'https://kovalevhychroman.github.io/FullShop/')
+mainPage.addEventListener('click', () => location.href = 'https://kovalevhychroman.github.io/FullShop3/')
 const productItem = Array.from(document.getElementsByClassName('product-item'))
 const count = Array.from(document.getElementsByClassName('count'))
 const minus = Array.from(document.getElementsByClassName('minus'))
